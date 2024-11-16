@@ -1,5 +1,5 @@
 # **The Maze Runner**
-![alt text](tmr.jpeg)
+![alt text](tmr.jpg)
 ### *The Maze Runner* is a renowned dystopian sci-fi film series based on James Dashner's books.
 ### *The series follows a group of teenagers who wake up in a mysterious maze with no memory of their past lives. They must work together to escape the maze and uncover the secrets behind their predicament.*
 
